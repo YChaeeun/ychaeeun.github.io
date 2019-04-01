@@ -2,8 +2,8 @@
 main:
   - title: "Quick-Start Guide"
     url: https://ychaeeun.github.io/guide/
-   - title: "About"
-     url: https://ychaeeun.github.io/About/
+  - title: "About"
+    url: https://ychaeeun.github.io/About/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "땀땀;;"
+  - title: "study"
     url: /study/
-  - title: "소소한일기"
+  - title: "diary"
     url: /diary/
   # - title: "Sample Posts"
   #   url: /year-archive/

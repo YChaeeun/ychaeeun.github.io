@@ -1,13 +1,8 @@
 ---
 permalink: /study/
-title: "고군분투 Github Pages 만들기 -1"
-last_modified_at: 2019-04-01
+title: "study"
+excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+layouts: home
+last_modified_at: 2019-01-23T20:23:03-05:00
 toc: true
 ---
-
-
-# Github Pages가 뭐야?
-
-# 생각보다 어려웠던 (?)
-
-# 그래도 어찌저찌 성공했다 (ㅠㅠ)

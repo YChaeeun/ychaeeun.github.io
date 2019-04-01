@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://ychaeeun.github.io/guide/
+   - title: "About"
+     url: https://ychaeeun.github.io/About/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

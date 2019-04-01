@@ -288,11 +288,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
-      # share: true
-      related: true
+      # share: true  # facebook이나 그런데로 share할 수 있도록
+      related: true  # 연관된 글 나오게 하기
   # _pages
   - scope:
       path: "_pages"

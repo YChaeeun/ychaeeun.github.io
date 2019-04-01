@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "study"
-    url: /study/
-  - title: "diary"
-    url: /diary/
+  # - title: "study"
+  #  url: /study/
+  #- title: "diary"
+  #  url: /diary/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

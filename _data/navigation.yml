@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Quick-Start Guide"
-    url: https://ychaeeun.github.io/guide/
+    url: /guide/
   - title: "About"
-    url: https://ychaeeun.github.io/About/
+    url: /About/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

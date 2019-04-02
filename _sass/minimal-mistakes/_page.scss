@@ -57,6 +57,12 @@
       margin-bottom:20px;
       width: 100%;
       clear: both;
+
+      blockquote {
+        p{
+          font-size: 0.75em;
+        }
+      }
     }
 
     .page__meta {
@@ -96,6 +102,7 @@
   dl {
     font-size: 0.85em;
   }
+
 
   /* paragraph indents */
   p {

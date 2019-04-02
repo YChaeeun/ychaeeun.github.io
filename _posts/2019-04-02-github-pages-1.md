@@ -1,16 +1,16 @@
 ---
 title: "Github Pages 도전기"
 categories:
-    - Github_Pages
+ - Github_Pages
 tags:
-    - tips
-	- tutorial
+ - tips
+ - tutorial
 ---
 
 
 
 
-### 티스토리 vs Github pages
+## 티스토리 vs Github pages
 
 
 > (예비) 개발자라면 무릇 블로그 하나 쯤은 있어야지! 
@@ -31,7 +31,7 @@ tags:
 
 
 
-### 당황스러웠던 GITHUB PAGES와의 첫 만남...;;
+## 당황스러웠던 GITHUB PAGES와의 첫 만남...;;
 
 
 

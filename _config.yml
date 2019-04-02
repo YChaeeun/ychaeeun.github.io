@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko_kr"
-title                    : "ychaeeun 블로그"
+title                    : "YCHAEEUN"
 title_separator          : "-"
 name                     : "ychaeeun"
 description              : "Welcome!"
@@ -110,11 +110,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "student studying Religious studies & Computer engineering"
   location         : "Seoul, South Korea"
-  email            :
+  email            : se_same5315@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: se_same5315@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -291,8 +291,8 @@ defaults:
       author_profile: false
       read_time: true
       comments: true
-      # share: true  # facebook이나 그런데로 share할 수 있도록
-      related: true  # 연관된 글 나오게 하기
+      # share: true  # sns share
+      related: true  # related article
   # _pages
   - scope:
       path: "_pages"

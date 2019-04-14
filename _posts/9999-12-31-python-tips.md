@@ -2,10 +2,10 @@
 title: algo python 알아둘 것 정리 (계속 업데이트)
 date: 9999-12-31
 tags:
-- python
+ - python
 categories:
  - algorithm
-toc:true
+toc: true
 ---
 
 

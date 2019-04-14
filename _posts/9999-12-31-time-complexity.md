@@ -1,7 +1,7 @@
 ---
 title: algo python TimeComplexity 시간복잡도
-date : 9999-12-31
-published:false
+date: 9999-12-31
+published: false
 tags:
  - python
 categories:

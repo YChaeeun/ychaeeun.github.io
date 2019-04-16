@@ -27,7 +27,7 @@ categories:
 >
 > Data-Link Layer   :  MAC Layer + LLC Layer
 >
-> Processing Layer 
+> Physical Layer 
 
 
 

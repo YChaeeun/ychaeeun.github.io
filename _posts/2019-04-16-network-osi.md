@@ -15,17 +15,11 @@ categories:
 
 
 
-> **(upper layers)**
->
 > Application Layer
 >
 > Presentation Layer
 >
 > Session Layer
->
-> 
->
-> **(lower layers)**
 >
 > Transport Layer
 >
@@ -46,5 +40,5 @@ categories:
 - 데이터 흐름을 한 눈에 볼 수 있다
 - 문제를 해결하기 편하다
   + 통신이 단계적으로 이루어지기 때문에 어디서 문제가 생겼는지 쉽게 파악할 수 있다
-- 표준화 과정을 통해 여러 장비들을 사용해도 문제가 없다
+- 통신이 표준화되었기 때문에 여러 다른 회사의 장비들을 사용해도 문제없이 통신할 수 있다
 

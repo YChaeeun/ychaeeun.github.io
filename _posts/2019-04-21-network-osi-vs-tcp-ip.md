@@ -1,7 +1,6 @@
 ---
 title: network OSI와 TCP/IP 차이점
 date: 2019-04-21
-published: false
 categories:
  - network
 ---

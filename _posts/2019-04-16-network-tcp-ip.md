@@ -18,6 +18,20 @@ categories:
 
 
 
+## TCP/IP Layers & 프로토콜 스위트
+
+> [출처](<https://www.ibm.com/support/knowledgecenter/ko/ssw_aix_71/com.ibm.aix.networkcomm/tcpip_protocols.htm>)
+
+
+
+![tcp-ip-layers]({{site.url}}{{site.baseurl}}/assets/images/network-tcp-ip.png)
+
+
+
+![tcp-ip]({{site.url}}{{site.baseurl}}/assets/images/tcp-ip.png)
+
+
+
 
 
 ## TCP/IP의 구성
@@ -30,14 +44,4 @@ categories:
 + TCP는 IP 위에서 동작하는 프로토콜로, 데이터의 전달을 보증하고 보낸 순서대로 받게 해준다 !
 
 
-
-
-
-## TCP/IP 프로토콜 스위트
-
-> [출처](<https://www.ibm.com/support/knowledgecenter/ko/ssw_aix_71/com.ibm.aix.networkcomm/tcpip_protocols.htm>)
-
-
-
-![tcp-ip]({{site.url}}{{site.baseurl}}/assets/images/tcp-ip.png)
 

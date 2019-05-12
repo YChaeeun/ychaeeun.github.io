@@ -57,15 +57,11 @@ $ curl -F "name=Joe Smith" -F "email=joe@labstack.com" http://localhost:1324/sav
 
 
 
-POST로 넘긴 값은 화면에 출력되지 않고 ` {"message":"Method Not Allowed"}` 라는 값을 반환한다. 값이 POST로 잘 넘어갔는지 확인하고 싶다면 Postman을 사용해서 값을 직접 확인 할 수 있다.
+POST로 넘긴 값은 화면에 출력되지 않고 ` {"message":"Method Not Allowed"}` 라는 값을 반환한다. 값이 POST로 잘 넘어갔는지 확인하고 싶다면 Postman을 사용해서 값을 직접 확인 할 수 있다. [Postman 사용하기](https://ychaeeun.github.io/web/web-postman/)
 
 
 
 ![postman]({{site.url}}{{site.baseurl}}/assets/images/postman-2.png)
-
-
-
-[Postman 사용하기](#)
 
 
 

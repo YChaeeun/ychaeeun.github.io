@@ -107,7 +107,6 @@ categories:
   print(sumAllelements(exampleList))  # 15 
   ```
   
-
 - 딕셔너리
 
   ```python

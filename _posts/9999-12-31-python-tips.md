@@ -129,4 +129,8 @@ toc: true
 </table>
 
 
+## 5) dict 관련 함수
 
+- setdefault(key, default_value)
+  - 만약 dictionary에 key 값이 **없다면** key : default_value 를 추가한다
+  - key 값이 있다면 default_value 무시

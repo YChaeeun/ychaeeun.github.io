@@ -134,3 +134,57 @@ toc: true
 - setdefault(key, default_value)
   - 만약 dictionary에 key 값이 **없다면** key : default_value 를 추가한다
   - key 값이 있다면 default_value 무시
+
+
+
+## for - else
+
+
+- for 문안에 if와 break가 있을 때 주로 사용한다 (편리!)
+
+- for문 안에서 **break를 만나지 않았고, for문이 종료되었을 경우** else 구문이 **한 번** 실행된다
+
+- 만약 break를 만났다면 else는 실행되지 않고 for 문은 종료
+
+  ```python
+  for i in range(0,5):
+      if i>10:
+          print(i)
+          break
+  else :
+      print ("else")
+  ```
+
+  - if 조건을 만족하지 않으므로 break를 만나지 않음
+  - else 구문의 print("else") 가 실행됨
+
+
+
+- 예시  [출처](<http://book.pythontips.com/en/latest/for_-_else.html>)
+
+  ```python
+  for n in range(2, 10):
+      for x in range(2, n):
+          if n % x == 0:
+              print( n, 'equals', x, '*', n/x)
+              break
+      else:
+          # loop fell through without finding a factor
+          print(n, 'is a prime number')
+  ```
+
+  - 2 is a prime number
+
+    3 is a prime number
+
+    4 equals 2 * 2.0
+
+    5 is a prime number
+
+    6 equals 2 * 3.0
+
+    7 is a prime number
+
+    8 equals 2 * 4.0
+
+    9 equals 3 * 3.0

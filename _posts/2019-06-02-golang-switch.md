@@ -1,7 +1,6 @@
 ---
 title: golang 분기문 switch
-date: 2019-05-26
-published : false
+date: 2019-06-02
 categories:
  - go
 
@@ -32,6 +31,8 @@ categories:
 
 
 
+### break _ 실행 중지
+
 - break 사용 가능
 
   ```go
@@ -50,11 +51,14 @@ categories:
   }
   ```
 
-  
+
+
+
+### fallthrough _ 그 다음 case문도 실행
 
 - fallthrough 사용하기
 
-  - 특정 case 를 실행 한 후, **바로 그 다음 case 문**도 실ㄴ행하고 싶을 때 사용
+  - 특정 case 를 실행 한 후, **바로 그 다음 case 문**도 실행하고 싶을 때 사용
   - 마지막 case 문에는 사용할 수 없음
 
   ```go
@@ -80,6 +84,8 @@ categories:
   - case 1 에는 fallthrough가 없으니 실행 종료
 
 
+
+### 조건을 주는 여러가지 방법
 
 - 여러 조건 함께 처리하기
 
@@ -113,6 +119,8 @@ categories:
   
   }
   ```
+
+
 
 - 또한 switch 분기문안에서 함수를 실행한 뒤, 그 결과값으로 분기할 수도 있음
 

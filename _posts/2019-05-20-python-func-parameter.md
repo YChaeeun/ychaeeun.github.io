@@ -132,7 +132,7 @@ categories:
   
   # 방법 1
   example = [1,2,3,4,5]
-  sumAllpointer(*exmple)
+  sumAllpointer(*example)
   
   # 방법 2
   sumAllpointer(1,2,3,4,5)

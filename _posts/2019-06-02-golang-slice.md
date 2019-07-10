@@ -239,6 +239,6 @@ a = append(a,b...)
 
 
 ## 더보기
-- [Golang 슬라이스 slices](https://ychae-leah.tistory.com/100)
+- [Golang 배열 array](https://ychae-leah.tistory.com/99)
 
 

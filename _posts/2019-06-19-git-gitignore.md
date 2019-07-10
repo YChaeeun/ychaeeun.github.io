@@ -1,5 +1,5 @@
 ---
-title : Git .gitignore 파일 작성하기
+title : Git gitignore 파일 작성하기
 date : 2019-06-18
 categories:
  - git

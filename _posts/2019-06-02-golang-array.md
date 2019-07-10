@@ -133,4 +133,5 @@ categories:
 
 
 ## 더보기
-- [Golang 배열 array](https://ychae-leah.tistory.com/99)
+- [Golang 슬라이스 slice](https://ychae-leah.tistory.com/100)
+

@@ -1,5 +1,5 @@
 ---
-title: python anaconda 아나콘다 가상환경 설정하기
+title: python anaconda 미니콘다 가상환경 설정하기
 date: 2019-05-21
 categories:
  - python
@@ -17,7 +17,7 @@ categories:
 
   - 이때 "Add Anaconda to my PATH environment variable" 옵션은 선택하지 않는다!!
 
-  - (우분투) Linux-64-bit (bash installer)를 다운받은 뒤, 해당 경로로 이동한 뒤 아래 명령어를 적는다 [[참고\]](https://ychae-leah.tistory.com/78)
+  - (우분투) Linux-64-bit (bash installer)를 다운받은 뒤, 다운로드 한 해당 경로로 이동한 뒤 아래 명령어를 적는다 [[참고\]](https://ychae-leah.tistory.com/78)
 
     ```
     bash Miniconda3-latest-Linux-x86_64.sh
@@ -26,6 +26,14 @@ categories:
   - conda list 명령어를 작성했을 때 설치된 패키지들의 리스트가 나열된다면 성공!
 
 - 가상환경 : 여러 프로젝트 끼리 설정 및 패키지 버전 충돌을 막기위해 해당 프로젝트를 위한 독립된 공간을 따로 만들어 주는 기능이다
+
+- 실행경로 추가하기
+
+  ```shell
+  export PATH=$HOME/miniconda3/bin:$PATH
+  ```
+
+  
 
 
 
